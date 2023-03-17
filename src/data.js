@@ -49,5 +49,11 @@ export const works = [
         image: "./TasksApp.png",
         link: "https://github.com/ManuelDiLena/TasksApp",
     },
-
+    {
+        title: "Book Library",
+        subtitle: "React",
+        description: "Books page created with React in which you can add new books and view them all.",
+        image: "./BookLibrary.png",
+        link: "https://github.com/ManuelDiLena/BookLibrary",
+    },
 ];
