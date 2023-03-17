@@ -42,4 +42,12 @@ export const works = [
         image: "./EventsApp.png",
         link: "https://github.com/ManuelDiLena/EventsApp",
     },
+    {
+        title: "Tasks App",
+        subtitle: "React",
+        description: "Task application built with React, in which you can create, finish and delete tasks.",
+        image: "./TasksApp.png",
+        link: "https://github.com/ManuelDiLena/TasksApp",
+    },
+
 ];
