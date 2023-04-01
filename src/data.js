@@ -10,10 +10,17 @@ export const skills = [
     "JQuery",
     "Bootstrap",
     "Tailwind CSS",
-    "Material Design"
+    "Material UI"
 ];
 
 export const works = [
+    {
+        title: "Hotel Reservation",
+        subtitle: "React",
+        description: "Hotel reservation website with search filters by date and price, created with React and Redux.",
+        image: "./HotelReservation.png",
+        link: "https://github.com/ManuelDiLena/HotelReservation",
+    },
     {
         title: "Connect4",
         subtitle: "JavaScript",
@@ -29,20 +36,6 @@ export const works = [
         link: "https://github.com/ManuelDiLena/WorldPizza",
     },
     {
-        title: "Virtual Keyboard",
-        subtitle: "Javascript",
-        description: "Virtual keyboard created with Javascript with all its features.",
-        image: "./VirtualKeyboard.png",
-        link: "https://github.com/ManuelDiLena/VirtualKeyboard",
-    },
-    {
-        title: "Events App",
-        subtitle: "Javascript",
-        description: "Application to create events with remaining days counter, made with Javascript.",
-        image: "./EventsApp.png",
-        link: "https://github.com/ManuelDiLena/EventsApp",
-    },
-    {
         title: "Tasks App",
         subtitle: "React",
         description: "Task application built with React, in which you can create, finish and delete tasks.",
@@ -56,4 +49,18 @@ export const works = [
         image: "./BookLibrary.png",
         link: "https://github.com/ManuelDiLena/BookLibrary",
     },
+    {
+        title: "Virtual Keyboard",
+        subtitle: "Javascript",
+        description: "Virtual keyboard created with Javascript with all its features.",
+        image: "./VirtualKeyboard.png",
+        link: "https://github.com/ManuelDiLena/VirtualKeyboard",
+    },
+    {
+        title: "Events App",
+        subtitle: "Javascript",
+        description: "Application to create events with remaining days counter, made with Javascript.",
+        image: "./EventsApp.png",
+        link: "https://github.com/ManuelDiLena/EventsApp",
+    }, 
 ];
