@@ -31,6 +31,13 @@ export const works = [
         link: "https://github.com/ManuelDiLena/NetflixClone",
     },
     {
+        title: "Spotify Clone",
+        subtitle: "React",
+        description: "Spotify web clone, built with React and Redux, using a official Spotify API.",
+        image: "./SpotifyClone.png",
+        link: "https://github.com/ManuelDiLena/SpotifyClone",
+    },
+    {
         title: "Tasks App",
         subtitle: "React",
         description: "Task application built with React, in which you can create, finish and delete tasks.",
