@@ -17,6 +17,13 @@ export const skills = [
 
 export const works = [
     {
+        title: "eCommerce",
+        subtitle: "React",
+        description: "Complete eCommerce, with cart functionality with summary and checkout, created with React.",
+        image: "./FirstEcommerce.png",
+        link: "https://github.com/ManuelDiLena/eCommerce",
+    },
+    {
         title: "Hotel Reservation",
         subtitle: "React",
         description: "Hotel reservation website with search filters by date and price, created with React and Redux.",

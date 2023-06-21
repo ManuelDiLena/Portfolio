@@ -15,7 +15,7 @@ function About() {
                 <h2 className='sm:text-2xl text-xl text-text mb-4'>Where I've Worked</h2>
                 <div className='flex flex-col text-text sm:w-3/4'>
                     <h3 className='sm:text-xl text-1'>Developer <a href='#home' className='text-orange underline'>@ Essen S.A.</a></h3>
-                    <p className='sm:text-base'>Aug 2021 - Present</p>
+                    <p className='sm:text-base'>Aug 2021 - Jun 2023</p>
                     <ul className='text-sm list-disc list-inside pl-8'>
                         <li>Write modern, performant, maintainable code for a diverse array of client and internal projects.</li>
                         <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, React, C#, .NET, SQL Server, and APIs.</li>
