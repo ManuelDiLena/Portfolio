@@ -6,7 +6,7 @@ import { AiOutlineInstagram, AiOutlineMail } from 'react-icons/ai';
 function Home() {
   return (
     <section id='home' className='h-screen'>
-        <div className='container mx-auto flex flex-col sm:flex-row px-10 py-20 bg-black justify-around items-center'>
+        <div className='container mx-auto flex flex-col sm:flex-row px-10 py-10 bg-black justify-around items-center'>
             <div className='flex flex-col justify-evenly mt-8'>
                 <p className='text-orange title-font sm:text-3xl mb-4 font-medium text-2xl'>Hi, my name is</p>
                 <h1 className='text-title title-font sm:text-5xl text-4xl font-bold bg-gradient-to-r from-orange to-gray p-2 md:w-4/5'>Manuel Di Lena</h1>
