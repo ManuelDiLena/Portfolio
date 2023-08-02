@@ -52,6 +52,13 @@ export const works = [
         link: "https://github.com/ManuelDiLena/MemoPad",
     },
     {
+        title: "Wordle Game",
+        subtitle: "React",
+        description: "Famous game to guess 5 letter words, with 6 chances, created with React and TypeScript.",
+        image: "./WordleGame.png",
+        link: "https://github.com/ManuelDiLena/WordleGame",
+    },
+    {
         title: "World Pizza",
         subtitle: "Javascript",
         description: "Pizzeria website built with HTML5, CSS3 and Javascript.",
