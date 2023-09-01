@@ -13,8 +13,17 @@ function About() {
                     <p>Currently my focus is on creating accessible products and experiences, as well as continuing to hone my skills.</p>
                 </div>
                 <h2 className='sm:text-2xl text-xl text-text mb-4'>Where I've Worked</h2>
+                <div className='flex flex-col text-text mb-6 sm:w-3/4'>
+                    <h3 className='sm:text-xl text-1'>Software Developer <a href='#home' className='text-orange underline'>@ MafRoda Agrobotic</a></h3>
+                    <p className='sm:text-base'>Aug 2023</p>
+                    <ul className='text-sm list-disc list-inside pl-8'>
+                        <li>Development and maintenance of traceability systems for industrial equipment.</li>
+                        <li>Work with a variety of different languages and framework such as JavaScript, C#, .NET and DataBases</li>
+                        <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis.</li>
+                    </ul>
+                </div>
                 <div className='flex flex-col text-text sm:w-3/4'>
-                    <h3 className='sm:text-xl text-1'>Developer <a href='#home' className='text-orange underline'>@ Essen S.A.</a></h3>
+                    <h3 className='sm:text-xl text-1'>FullStack Developer <a href='#home' className='text-orange underline'>@ Essen S.A.</a></h3>
                     <p className='sm:text-base'>Aug 2019 - Jun 2023</p>
                     <ul className='text-sm list-disc list-inside pl-8'>
                         <li>Write modern, performant, maintainable code for a diverse array of client and internal projects.</li>

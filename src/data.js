@@ -4,6 +4,7 @@ export const skills = [
     "HTML5",
     "CSS3",
     "TypeScript",
+    "NextJS",
     "NodeJS",
     "C#",
     ".NET",
@@ -16,6 +17,13 @@ export const skills = [
 ];
 
 export const works = [
+    {
+        title: "eCommerceNextJS",
+        subtitle: "NextJS",
+        description: "Complete eCommerce, created with NextJS, React and Styled-components.",
+        image: "./SecEcommerce.png",
+        link: "https://github.com/ManuelDiLena/eCommerceSec",
+    },
     {
         title: "eCommerce",
         subtitle: "React",
@@ -78,13 +86,6 @@ export const works = [
         description: "Task application built with React, in which you can create, finish and delete tasks.",
         image: "./TasksApp.png",
         link: "https://github.com/ManuelDiLena/TasksApp",
-    },
-    {
-        title: "Book Library",
-        subtitle: "React",
-        description: "Books page created with React in which you can add new books and view them all.",
-        image: "./BookLibrary.png",
-        link: "https://github.com/ManuelDiLena/BookLibrary",
     },
     {
         title: "Virtual Keyboard",

@@ -98,7 +98,7 @@ function Contact() {
                     </div>
                     <div className='flex justify-end sm:w-4/5 mx-auto mt-4'>
                         <input type='submit' name='send' value='Send'
-                            className='w-1/4 sm:py-3 bg-orange sm:text-3xl text-xl text-black rounded-md border-0 tracking-wide transition duration-300 focus:outline-none hover:scale-105'
+                            className='w-1/4 sm:py-3 bg-orange sm:text-3xl text-xl text-black rounded-md border-0 tracking-wide transition duration-300 focus:outline-none hover:scale-105 cursor-pointer'
                         ></input>
                     </div>
                 </form>
