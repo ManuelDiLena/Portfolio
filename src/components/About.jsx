@@ -15,7 +15,7 @@ function About() {
                 <h2 className='sm:text-2xl text-xl text-text mb-4'>Where I've Worked</h2>
                 <div className='flex flex-col text-text mb-6 sm:w-3/4'>
                     <h3 className='sm:text-xl text-1'>Software Developer <a href='#home' className='text-orange underline'>@ MafRoda Agrobotic</a></h3>
-                    <p className='sm:text-base'>Aug 2023</p>
+                    <p className='sm:text-base'>Aug 2023 - Oct 2023</p>
                     <ul className='text-sm list-disc list-inside pl-8'>
                         <li>Development and maintenance of traceability systems for industrial equipment.</li>
                         <li>Work with a variety of different languages and framework such as JavaScript, C#, .NET and DataBases</li>
@@ -24,10 +24,10 @@ function About() {
                 </div>
                 <div className='flex flex-col text-text sm:w-3/4'>
                     <h3 className='sm:text-xl text-1'>FullStack Developer <a href='#home' className='text-orange underline'>@ Essen S.A.</a></h3>
-                    <p className='sm:text-base'>Aug 2019 - Jun 2023</p>
+                    <p className='sm:text-base'>Aug 2021 - Jul 2023</p>
                     <ul className='text-sm list-disc list-inside pl-8'>
                         <li>Write modern, performant, maintainable code for a diverse array of client and internal projects.</li>
-                        <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, React, C#, .NET, SQL Server, and APIs.</li>
+                        <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, React, NodeJS, FrameworksCSS, TypeScript, NextJS, C#, .NET, SQL & noSQL, APIs RESTful & GraphQL, Git & Testing.</li>
                         <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis.</li>
                         <li>Worked with a team to build a e-commerce platform and marketing website.</li>
                         <li>Engineered and maintained major features of customer-facing web app using.</li>

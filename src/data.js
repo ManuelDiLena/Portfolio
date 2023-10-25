@@ -8,15 +8,23 @@ export const skills = [
     "NodeJS",
     "C#",
     ".NET",
-    "SQL Server",
-    "Firebase",
+    "SQL",
+    "noSQL",
     "Git",
     "Bootstrap",
     "Tailwind CSS",
-    "Material UI"
+    "Material UI",
+    "GraphQL"
 ];
 
 export const works = [
+    {
+        title: "Player Ratings",
+        subtitle: "React & NodeJS",
+        description: "Complete website with a list of the ratings of the best futbol players.",
+        image: "./PlayersRating.png",
+        link: "https://github.com/ManuelDiLena/PlayersRatings-front",
+    },
     {
         title: "eCommerceNextJS",
         subtitle: "NextJS",
@@ -87,13 +95,13 @@ export const works = [
         image: "./TasksApp.png",
         link: "https://github.com/ManuelDiLena/TasksApp",
     },
-    {
-        title: "Virtual Keyboard",
-        subtitle: "Javascript",
-        description: "Virtual keyboard created with Javascript with all its features.",
-        image: "./VirtualKeyboard.png",
-        link: "https://github.com/ManuelDiLena/VirtualKeyboard",
-    },
+    // {
+    //     title: "Virtual Keyboard",
+    //     subtitle: "Javascript",
+    //     description: "Virtual keyboard created with Javascript with all its features.",
+    //     image: "./VirtualKeyboard.png",
+    //     link: "https://github.com/ManuelDiLena/VirtualKeyboard",
+    // },
     {
         title: "Events App",
         subtitle: "Javascript",
