@@ -19,6 +19,13 @@ export const skills = [
 
 export const works = [
     {
+        title: "Google Photo Clone",
+        subtitle: "NodeJS",
+        description: "Google Photos clone created with NodeJS and TS, to upload photos, view and create albums.",
+        image: "./GooglePhotosClone.png",
+        link: "https://github.com/ManuelDiLena/GooglePhotoClone",
+    },
+    {
         title: "Player Ratings",
         subtitle: "React & NodeJS",
         description: "Complete website with a list of the ratings of the best futbol players.",
@@ -94,19 +101,5 @@ export const works = [
         description: "Task application built with React, in which you can create, finish and delete tasks.",
         image: "./TasksApp.png",
         link: "https://github.com/ManuelDiLena/TasksApp",
-    },
-    // {
-    //     title: "Virtual Keyboard",
-    //     subtitle: "Javascript",
-    //     description: "Virtual keyboard created with Javascript with all its features.",
-    //     image: "./VirtualKeyboard.png",
-    //     link: "https://github.com/ManuelDiLena/VirtualKeyboard",
-    // },
-    {
-        title: "Events App",
-        subtitle: "Javascript",
-        description: "Application to create events with remaining days counter, made with Javascript.",
-        image: "./EventsApp.png",
-        link: "https://github.com/ManuelDiLena/EventsApp",
     }, 
 ];
